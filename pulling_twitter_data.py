@@ -7,10 +7,10 @@ import sentiment_mod as s
 #consumer key, consumer secret, access token, access secret.
 
 twitter_app_auth = {
-    'consumer_key': '3YOkfSAo6SoVhOG6myiDviEty',
-    'consumer_secret': 'wcgXZ9S8uFGQNBxNAc7tEO86KufyKiEUnybwNwzJagNOoo8IP9',
-    'access_token': '784269134087323648-JF6dCA12zq7PcPnCNoIhBEcCKlTa07N',
-    'access_token_secret': 'MZT4KNncsjqPnMyyOlpYe3SIpYTRYSyhprnHeHeNn7alU',
+    'consumer_key': '',
+    'consumer_secret': '',
+    'access_token': '',
+    'access_token_secret': '',
 }
 ckey=twitter_app_auth['consumer_key']
 csecret=twitter_app_auth['consumer_secret']
