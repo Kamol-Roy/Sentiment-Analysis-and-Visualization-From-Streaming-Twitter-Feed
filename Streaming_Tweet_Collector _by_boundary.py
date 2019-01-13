@@ -6,10 +6,10 @@ import time
 
 #consumer key, consumer secret, access token, access secret.
 #Irfan's key 
-ckey='bhVsRgSMMjcVWR668QSColWv8'
-csecret='daZ7euYe6gQB5kUMBZ6ukdSKDFR8pgomRrQQrwBCoESjBzvT5p'
-atoken='706709290304798720-xLLSRzQCaLHhnijTwwtyoSRbDFaQEmI'
-asecret='TtigIEzMpaPQ2JZMtbo4B113kvviWlumiGHg0KX1s74Zf'
+ckey=''
+csecret=''
+atoken=''
+asecret=''
 
 
 class listener(StreamListener):
